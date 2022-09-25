@@ -9,7 +9,7 @@ API: lua
   
 - [Noita](https://noitagame.com)  
 API: lua  
-[Documentation](https://noita.fandom.com/wiki/Modding:_Lua_API)  
+[Documentation](https://noita.wiki.gg/wiki/Modding:_Lua_API)  
 
 - [Garry's Mod](https://gmod.facepunch.com)  
 API: lua  
