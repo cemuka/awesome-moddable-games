@@ -3,6 +3,11 @@
 A categorized community-driven collection of awesome Moddable games, tools and resources.
 
 ## Games
+- [Don't Starve Together](https://www.klei.com/games/dont-starve-together)  
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1167510/capsule_616x353.jpg?t=1620696562" width="320">
+  - API: lua  
+  - [Documentation](https://dst-api-docs.fandom.com/wiki/Home) 
+
 - [Scrap Mechanic](https://scrapmechanic.com)  
   <img src="https://cdn.akamai.steamstatic.com/steam/apps/387990/capsule_616x353.jpg?t=1593703247" width="320">
   - API: lua  
