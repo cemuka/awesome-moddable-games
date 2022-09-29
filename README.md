@@ -3,6 +3,11 @@
 A categorized community-driven collection of awesome Moddable games, tools and resources.
 
 ## Games
+- [DOTA2](https://www.dota2.com)  
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg?t=1662588548" width="320">
+  - API: lua  
+  - [Documentation](https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/API) 
+  
 - [Tabletop Similator](https://www.tabletopsimulator.com)  
   <img src="https://cdn.akamai.steamstatic.com/steam/apps/286160/header.jpg?t=1620412025" width="320">
   - API: lua  
