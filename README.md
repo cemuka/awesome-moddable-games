@@ -28,8 +28,8 @@ A categorized community-driven collection of awesome Moddable games, tools and r
   <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/211820/capsule_616x353.jpg?t=1661178495" width="180">
   - [Lua Documentation](https://starbounder.org/Modding:Lua) 
 
-  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1167510/capsule_616x353.jpg?t=1620696562" width="180">
 - [Don't Starve Together](https://www.klei.com/games/dont-starve-together)  
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1167510/capsule_616x353.jpg?t=1620696562" width="180">
   - [Lua Documentation](https://dst-api-docs.fandom.com/wiki/Home) 
 
 - [Scrap Mechanic](https://scrapmechanic.com)  
