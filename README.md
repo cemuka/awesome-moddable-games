@@ -44,11 +44,6 @@ A categorized community-driven collection of awesome Moddable games, tools and r
   - [Documentation](https://dev.minetest.net/Lua_API_Documentation)  
 
 - [Minecraft](https://www.minecraft.net/en-us)  
-  <img src="https://www.minecraft.net/content/dam/games/minecraft/key-art/Xbox_Minecraft_WildUpdate_Main_.Net_600x360.png" width="320">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Minecraft_cover.png/220px-Minecraft_cover.png" width="320">
   - API: java 
   - [Documentation](https://github.com/MinecraftForge/MinecraftForge)  
-
-
-
-
-## Tools
