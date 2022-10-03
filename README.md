@@ -4,6 +4,11 @@ A categorized community-driven collection of awesome Moddable games, tools and r
 
 ## Games
 
+- [0 A.D](https://play0ad.com)  
+  <img src="https://play0ad.com/wp-content/gallery/carousel/PersianTradeRoute.jpg" width="180">
+  - [World Editor](https://trac.wildfiregames.com/wiki/Atlas_Manual_Starting)
+  - [JS Documentation](https://trac.wildfiregames.com/wiki/Modding_Guide) 
+
 - [Warcraft III](https://playwarcraft3.com/en-us/)  
   <img src="https://wallpaperaccess.com/full/1656065.jpg" width="180">
   - [World Editor](https://news.blizzard.com/en-us/warcraft3/23395649/revisiting-the-warcraft-iii-editor)
